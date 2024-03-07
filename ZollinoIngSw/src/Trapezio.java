@@ -22,6 +22,7 @@ public class Trapezio {
 		this.bM = bM;
 		this.h = h;
 		this.l = l;
+		//ciao
 	}
 /**
  * metodo che calcola il perimetro
